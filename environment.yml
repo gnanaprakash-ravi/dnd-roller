@@ -1,0 +1,29 @@
+name: packaging
+channels:
+  - leriomaggio
+  - defaults
+dependencies:
+  - bzip2=1.0.8
+  - ca-certificates=2023.12.12
+  - colorama=0.4.6
+  - exceptiongroup=1.0.4
+  - iniconfig=1.1.1
+  - libffi=3.4.4
+  - nomoji>=0.0.5
+  - openssl=3.0.12
+  - packaging=23.1
+  - pip=23.3.1
+  - pluggy=1.0.0
+  - pytest=7.4.0
+  - python=3.10.13
+  - setuptools=68.2.2
+  - sqlite=3.41.2
+  - tabulate=0.9.0
+  - tk=8.6.12
+  - tomli=2.0.1
+  - tzdata=2023c
+  - vc=14.2
+  - vs2015_runtime=14.27.29016
+  - wheel=0.41.2
+  - xz=5.4.5
+  - zlib=1.2.13

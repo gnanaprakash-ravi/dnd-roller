@@ -1,4 +1,5 @@
 from random import randint
+from nomoji import GAME_DIE, emojize
 from tabulate import tabulate
 
 SUPPORTED_DICE = (4, 6, 8, 10, 12, 20, 100)

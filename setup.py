@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 PKG_FOLDER = Path(os.path.abspath(os.path.dirname(__file__)))
 
-with open(PKG_FOLDER / "README.md") as f:
+with open(PKG_FOLDER / "README.md", encoding='utf-8') as f:
     long_description = f.read()
 
 

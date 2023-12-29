@@ -11,7 +11,7 @@ with open(PKG_FOLDER / "README.md") as f:
 setup(
     name="dnd-roller",
     version="0.0.1",
-    author="Gnanaprakash Ravi, abc, xyz",
+    author="Gnanaprakash R",
     author_email="gnana1306@gmail.com",
     description="Python package to roll D&D dice in the terminal.",
     long_description=long_description,
